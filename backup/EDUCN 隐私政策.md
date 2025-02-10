@@ -1,3 +1,6 @@
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
 D.X.D. - Q.L.W\.C. EDUCN\
 [educn.rth1.xyz](https://educn.rth1.xyz)
 
